@@ -1,0 +1,12 @@
+1.首先需要下载python
+2.安装后配置环境，win+R进入cmd
+输入pip stall selenium
+pip stall Pillow
+pip stall ddddocr
+3.下载浏览器驱动：先查看浏览器版本，再进入 官网下载驱动
+下载好后将exe文件放入python文件的Scripts中
+3.在浏览器打开校园网登录网址，复制网址到代码中
+4.点击输入用户名框，右键检查，在高亮处再右键复制XPATH
+重复步骤依次复制密码框等的XPATH填入代码中
+5.电脑中创建一个文件夹，用于存放截图，把路径复制到代码中
+6.运行
